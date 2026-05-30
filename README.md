@@ -136,7 +136,7 @@ Analyzes:
 
 ### Bank Customer Churn Dashboard
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](images/Dashboard_preview.png)
 
 ---
 
